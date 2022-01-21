@@ -19,6 +19,8 @@ run `npm start`
 
 ## Usage
 You can check out the application at: https://quiet-earth-87101.herokuapp.com/
+![Capture](https://user-images.githubusercontent.com/84405590/150448073-86672647-6b3c-41eb-9afb-99d3f1da2d7b.PNG)
+![Capture2](https://user-images.githubusercontent.com/84405590/150448079-5d710e18-c05d-496b-b3e5-c0ae9cf9135a.PNG)
 
 
 Sign in/Log in to the app. You can then comment on others thoughts (seeded for convenience), add them as friends, or make some thoughts of your own! View your profile to easily view all your thoughts. 
